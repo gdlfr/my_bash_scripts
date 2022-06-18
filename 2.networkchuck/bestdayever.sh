@@ -1,5 +1,9 @@
 #!/bin/bash
-echo "Good Morning, Alex!"
+
+name=$USER
+
+
+echo "Good Morning, $name"
 
 sleep 1
 
@@ -11,4 +15,4 @@ echo "it contains:"
 
 ls -lsa
 
-echo "Have a nice day!"
+echo "Have a nice day, $name!"
