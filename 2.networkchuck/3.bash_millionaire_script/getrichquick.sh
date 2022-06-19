@@ -30,7 +30,7 @@ echo "********.."
 sleep 1
 echo "**********"
 
-getrich=$((( $RANDOM % 15 ) + $age ))
-
+getrich=$((( $RANDOM % 14 ) + $age ))
+# Integer between 1-15, not 0-32767
 echo "You will be rich in $getrich"
 
