@@ -1,0 +1,9 @@
+echo "Choose: Yes or No (Y/N)"
+#read stdin
+#if [[ "$stdin" == 'Y' || "$stdin" == 'y' ]]; then
+#    echo 'YES'
+#else
+#    echo 'NO'
+#fi
+read char; echo -e "YES\nNO\n" | grep -i $char
+echo "Your choice is: "$char""
