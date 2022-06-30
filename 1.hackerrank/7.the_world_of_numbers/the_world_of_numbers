@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Enere two numbers, each on new line:"
+read x
+read y
+
+echo "The sum of entered numbers are: $(($x + $y))"
+echo "The difference of entered numbers are: $(($x - $y))"
+echo "The product of entered numbers are: $(($x * $y))"
+echo "The quotient of entered numbers are: $(($x / $y))"
+
+
