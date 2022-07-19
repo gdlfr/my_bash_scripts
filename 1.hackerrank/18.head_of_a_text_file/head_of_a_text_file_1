@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Cut first 20 lines of text input.
+
+file= 'cat /dev/stdin'
+head -20 $file
+
+#or
+#head -n 20
+
+#or
+#head -20
