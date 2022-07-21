@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Display the lines of a given text file. From line number 12 to 22, both inclusive.
+
+head -n 22 | tail -n +12
+
+#or
+#touch file
+#cat > file
+#head -n 22 file > file1
+#tail -n 11 file1
+
+#or
+#for ((i=1; i<=22; ++i)); do
+#    read
+#    if ((i >= 12)); then
+#        echo $REPLY
+#    fi
+#done
