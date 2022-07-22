@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read text.txt
+
+tail -n 20 $1
