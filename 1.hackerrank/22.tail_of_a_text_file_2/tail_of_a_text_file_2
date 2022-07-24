@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Display the last 20 characters of an input file.
+
+touch file
+cat > file
+tail -c 20 file
+
+#or
+#tail -c 20
+
+#or
+#read lines
+#while read line; do
+#    lines=$lines$'\n'$line
+#done
+#echo "$lines" | tail -c 20
