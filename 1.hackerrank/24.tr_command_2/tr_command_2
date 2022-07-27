@@ -15,3 +15,14 @@
 
 tr -d [a-z]
 
+#or
+#tr -d '[:lower:]'
+
+#or
+#read A
+#while [[ -n "$A" ]] 
+#do
+#  echo "$A" | tr -d [a-z]
+#  read A
+#done
+#echo ""
