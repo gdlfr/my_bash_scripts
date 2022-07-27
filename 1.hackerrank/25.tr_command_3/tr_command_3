@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Replace all sequences of multiple spaces with just one space.
+
+tr -s ' '
+
+#or
+#tr -s "[:space:]"
+
+#or
+#while true 
+#do 
+#    read -s input 
+#    echo  $input | tr -s [:space:] ' '
+#    echo ''
+#    if [[ -z "$input" ]]
+#    then 
+#        break
+#    fi 
+#done
