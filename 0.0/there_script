@@ -1,0 +1,26 @@
+#!/bin/bash
+##!/usr/bin/env bash
+
+year()
+
+	$date
+
+greet () 
+{
+	# local name=there
+	# option 1 - concise and quick to write
+	local name=${1:-"there"}
+	
+	# option 2 - more easily understood by the most people 
+	if [[ -n "$1" ]]; then
+		name=$1
+	fi
+
+	printf "Hello, %s.\n" "$name"
+}
+
+#greet Rob
+#greet "$1"
+greet "${1^}" 
+
+#; echo (0)
