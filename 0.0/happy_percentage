@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Hello $USER, \n please enter 🎂 birthday in mmdd format (for example 0520) and hit Enter"
+
+read bday
+
+today=$(date +'%Y%m%d')
+
+#echo "Today is:"
+#echo $today
+
+echo "You entered:"
+echo $bday
+echo $percentile
