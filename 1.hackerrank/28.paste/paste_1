@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Input where each row contains the name of a city and its  state separated by a comma.
+# Replace the newlines in the input file with semicolons as demonstrated in the sample.
+
+paste -s -d';'
+
+#or
+#paste -d';' -s -
+
+#or
+#tr "\\n" ";" | sed 's/;$/\n/'
