@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ar=()
+while read s; do
+  ar+=($s)
+done
+echo ${ar[*]}
