@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while read countries
+do
+a=("${a[@]}" "$countries")
+done
+temp=( ${a[@]/*a*/} )
+echo ${temp[@]/*A*/}
