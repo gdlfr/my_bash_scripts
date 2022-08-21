@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Concatenate an array with itself:
+
+arr=($(cat)) 
+printf "${arr[*]} ${arr[*]} ${arr[*]}"
