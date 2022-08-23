@@ -1,0 +1,5 @@
+# to run this use 'source' command
+# $ source <script_name>
+
+echo "I've been executed by" $SHELL
+
