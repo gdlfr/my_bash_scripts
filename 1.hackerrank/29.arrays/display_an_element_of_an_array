@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Display 3d element of an array
+sed -n 4p
