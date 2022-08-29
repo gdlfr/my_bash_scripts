@@ -1,0 +1,10 @@
+#!/bin/bash
+
+MY_IP_ADDR=$(curl -s http://myip.enix.org/REMOTE_ADDR)
+[ "$MY_IP_ADDR" ] || {
+  echo "Could not figure out public IP address."
+  echo "(http://myip.enix.org/REMOTE_ADDR/)"
+  exit 1
+}
+
+echo $MY_IP_ADDR
