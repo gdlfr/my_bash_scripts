@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#Count the number of elements in an array
+
+arr=($(cat))
+echo ${#arr[@]}
