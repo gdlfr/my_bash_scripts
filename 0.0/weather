@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# usage: `weather CITYNAME` or just `weather` to use your IP location.
+
+curl http://wttr.in/$1
