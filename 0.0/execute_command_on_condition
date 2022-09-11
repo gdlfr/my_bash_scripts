@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#this command executes on each file if condition is met, by looping on each file
+
+for file in *; do
+    if [[ $file =~ ^[a-zA-Z] ]]; then
+        # execute command on the file
+        echo $file
+    fi
+done
