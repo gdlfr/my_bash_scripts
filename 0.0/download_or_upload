@@ -1,0 +1,11 @@
+#/!bin/bash
+
+#download or upload files/directories on remote server
+
+scp username@server:path/to/file destination_path
+
+
+#scp -r /local/dir username@server:/remote/dir
+
+#upload under new filename:
+#scp file.txt username@server:/remote/dir/newfilename.txt
