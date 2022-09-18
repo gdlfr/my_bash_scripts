@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# send an email to the currently logged on user retrieved by the logname command
+
+recipient=`logname`
+echo "Email text" |  mail -s "this is the subject" "$recipient@domain.com"
