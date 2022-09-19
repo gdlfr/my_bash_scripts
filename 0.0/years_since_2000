@@ -1,0 +1,14 @@
+#!/bin/bash
+
+millennium_text="Years since 2000:"
+
+current_time=$( date '+%H:%M:%S' )
+todays_date=$( date '+%F' )
+year=$( date '+%Y' )
+
+echo "time:" $current_time
+echo "date:" $todays_date
+
+years_since_Y2K=$(( year - 2000 ))
+
+echo $millennium_text $years_since_Y2K
