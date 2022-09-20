@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# script allows you to handle user input without echoed to the terminal 
+# "s" option stands for silent
+
+read -s -p "Enter your secret PIN and hit \"Enter\" " secret_PIN;
+
+printf "\nShhh ... it is %d\n" $secret_PIN
