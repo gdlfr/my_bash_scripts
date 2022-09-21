@@ -1,0 +1,8 @@
+#!/bin/bash
+filecontent=( `cat "file.log" `)
+
+for t in "${filecontent[@]}"
+do
+echo $t
+done
+echo "---End of log file---"
