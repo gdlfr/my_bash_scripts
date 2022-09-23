@@ -1,0 +1,10 @@
+#!/bin/bash
+
+price=$1
+
+if [[ price -ge 399 ]];
+then
+  echo "Too expensive."
+else
+  echo "ok_go"
+fi
