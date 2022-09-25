@@ -1,0 +1,8 @@
+echo $SHELL # print current shell
+echo $USER  # print current user
+echo $PATH  # print 
+echo $$     # print PID of current shell
+echo $0     # print filename of current script 
+echo $?     # exit status of last command
+echo $#     # the number of arguments supplied to the script
+echo $*     # arguments are double quoted
