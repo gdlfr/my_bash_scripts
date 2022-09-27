@@ -1,5 +1,6 @@
 echo $SHELL # print current shell
 echo $USER  # print current user
+echo $USER  # print User Identifier
 echo $PATH  # print 
 echo $$     # print PID of current shell
 echo $0     # print filename of current script 
