@@ -1,0 +1,15 @@
+#!/bin/bash
+
+os="$(lsb_release -si 2>/dev/null)"
+
+if [[ "os" != "Ubuntu" ]] && [[ "os" != "Debian" ]] && [[ "os" != "Raspbian" ]]; then
+#  echo "This script only support Debian-based distros"
+else [[ "os" = "Debian" ]]
+  echo "This Linux is Debian-based (Debian)"
+#elif [[ "os" = "Ubuntu" ]]; then
+#  echo "This Linux is Debian-based, Ubuntu actually"
+# elif [[ "os" = "Raspbian" ]]; then
+#  echo "This is RaspbianOS (Debian-based distro)"
+# elif [[ "os" != "Ubuntu" ]] || [[ "os" != "Debian" ]] || [[ "os" != "Raspbian" ]]; then
+#  echo "not deb"
+fi
