@@ -1,0 +1,13 @@
+#!/bin/bash
+
+sudo nmcli connection delete pvpn-ipv6leak-protection #  broken py_connection fix
+sleep 1
+echo "Reconnection in 3 sec."
+sleep 1
+echo "Reconnection in 2 sec.."
+sleep 1
+echo "Reconnection in 3 sec..."
+sleep 1
+echo "Choose server now:"
+sleep 1
+protonvpn-cli c
