@@ -1,3 +1,9 @@
 #!/bin/bash
 
+# run with root privileges only
 
+mkdir /media/gdlfr/data1
+blkid #sda1
+unmount /dev/sda1
+echo "UUID=6E3E659A78312047 /media/gdlfr/data1 ntfs defaults 0 0" >> /etc/fstab
+mount -a
