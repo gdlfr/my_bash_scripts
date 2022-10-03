@@ -1,0 +1,16 @@
+#!/bin/bash
+
+line_counter=0
+
+function word_counter() {
+  printf "%d words in line %d\n" $(echo $1 | wc -w) $2
+}
+
+while IFS='' read -r line_from_file || [[ -n "${line_from_file}" ]]; do
+
+  ((line_counter++))
+  word_counter "$line_from_file" $line_counter
+
+done < "$1"
+
+word_counter "This isn't in the loop" 99
