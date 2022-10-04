@@ -1,0 +1,7 @@
+#!/bin/bash
+
+var1=test
+echo $var1
+unset var1
+echo $var1
+
