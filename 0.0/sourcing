@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# just sourcing example
+
+. ./shh
