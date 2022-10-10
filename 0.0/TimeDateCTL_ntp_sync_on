@@ -1,0 +1,10 @@
+#!/bin/bash
+
+apt-get remove ntpdate
+service ntp stop
+ntpd -gq
+service ntp start
+systemctl set-ntp true
+update-rc.d ntp defaults
+echo "If you get system start/stop links for /etc/init.d/minidlan already exist, run this: update-rc.d ntp enable"
+
