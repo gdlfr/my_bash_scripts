@@ -1,0 +1,50 @@
+#!/bin/bash 
+
+REQUIRED_PKG="lolcat"
+PKG_OK=$(dpkg-query -W --showformat='${Status}\n' $REQUIRED_PKG|grep "install ok installed")
+echo Checking for $REQUIRED_PKG: $PKG_OK
+if [ "" = "$PKG_OK" ]; then
+  echo "No $REQUIRED_PKG. Setting up $REQUIRED_PKG."
+  sudo apt-get --yes install $REQUIRED_PKG 
+fi
+
+sleep 1
+
+
+#
+#
+#
+
+#systemctl restart ssh
+echo "Hello1" | lolcat
+
+sleep 2
+clear
+echo "SSH restarting."
+sleep 1
+clear
+echo "SSH restarting.."
+sleep 1
+clear
+echo "SSH restarting..."
+sleep 2
+clear
+
+#systemctl restart sshd
+echo "Hello2" | lolcat
+
+sleep 2
+clear
+echo "sshd restarting."
+sleep 1
+clear
+echo "sshd restarting.."
+sleep 1
+clear
+echo "sshd restarting..."
+sleep 1
+clear
+echo "success!"
+sleep 2
+# exit
+
