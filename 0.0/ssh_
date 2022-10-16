@@ -8,6 +8,13 @@ if [ "" = "$PKG_OK" ]; then
   sudo apt-get --yes install $REQUIRED_PKG 
 fi
 
+if [ PKG_OK=$(dpkg-querry -W --showformat='${Status}\n' $REQUIRED_PKG|grep "intall ok installed")]
+then
+  echo "$REQUIRED_PKG installed!"
+else
+  echo "Error while installing required package :/"
+fi
+
 sleep 1
 
 
@@ -16,35 +23,35 @@ sleep 1
 #
 
 #systemctl restart ssh
-echo "Hello1" | lolcat
+#echo "Hello1" | lolcat
 
 sleep 2
 clear
-echo "SSH restarting."
+echo "SSH restarting." | lolcat
 sleep 1
 clear
-echo "SSH restarting.."
+echo "SSH restarting.." | lolcat
 sleep 1
 clear
-echo "SSH restarting..."
+echo "SSH restarting..." | lolcat
 sleep 2
 clear
 
 #systemctl restart sshd
-echo "Hello2" | lolcat
+#echo "Hello2" | lolcat
 
 sleep 2
 clear
-echo "sshd restarting."
+echo "sshd restarting." | lolcat
 sleep 1
 clear
-echo "sshd restarting.."
+echo "sshd restarting.." | lolcat
 sleep 1
 clear
-echo "sshd restarting..."
+echo "sshd restarting..." | lolcat
 sleep 1
 clear
-echo "success!"
+echo "SUCCESS!" | lolcat
 sleep 2
 # exit
 
