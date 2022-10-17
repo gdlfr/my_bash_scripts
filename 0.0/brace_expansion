@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#brace expansion example 1:
+echo '{one,two,three}fish'
+echo {one,two,three}fish
+
+# empty line
+echo ''
+sleep 1
+
+#brace expansion example 2:
+echo '{"one ","two ","three "}fish'
+echo {"one ","two ","three "}fish
+
+echo ''
+sleep 1
