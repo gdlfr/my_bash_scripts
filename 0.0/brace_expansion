@@ -1,6 +1,11 @@
 #!/bin/bash
 
+
 #brace expansion example 1:
+echo '{one,two,three}'
+echo {one,two,three}
+
+#brace expansion example 2:
 echo '{one,two,three}fish'
 echo {one,two,three}fish
 
@@ -8,7 +13,7 @@ echo {one,two,three}fish
 echo ''
 sleep 1
 
-#brace expansion example 2:
+#brace expansion example 3:
 echo '{"one ","two ","three "}fish'
 echo {"one ","two ","three "}fish
 
