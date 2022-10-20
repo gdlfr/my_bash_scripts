@@ -1,9 +1,24 @@
-echo $SHELL # print current shell
-echo $USER  # print current user
-echo $USER  # print User Identifier
-echo $PATH  # print 
-echo $$     # print PID of current shell
-echo $0     # print filename of current script 
-echo $?     # exit status of last command
-echo $#     # the number of arguments supplied to the script
-echo $*     # arguments are double quoted
+#!/bin/bash
+
+# simply output all bash variables each by each:
+
+echo $SHELL         # print current shell
+echo $USER          # print current user
+echo $UID           # print User Identifier
+echo $PATH          # print 
+echo $$             # print PID of current shell
+echo $0             # print filename of current script 
+echo $?             # exit status of last command
+echo $#             # the number of arguments supplied to the script
+echo $*             # arguments are double quoted
+echo $_             # 
+echo $LANG          # 
+echo $USERNAME      # 
+echo $SSH_AUTH_SOCK # 
+echo $COLORTERM     # 
+echo $TERM          # 
+echo $HOME          # print user home directory path
+echo
+
+# or ___ all of them by one command `printenv`:
+#printenv
