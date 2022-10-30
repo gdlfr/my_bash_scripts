@@ -1,0 +1,22 @@
+#!/bin/bash
+
+sudo apt-get update
+
+echo "Install LAMP:"
+
+sudo apt-get install php6 -yy
+sudo apt-get install mysql-client mysql-server -y
+sudo apt-get install phpmyadmin phpsysinfo -y
+
+# ------------ Cleaning --------------
+
+echo
+echo "Cleaning..."
+sudo apt-get autoclean
+
+# Configuring
+
+# ------------- Finish ---------------
+echo
+echo "All done!"
+echo
