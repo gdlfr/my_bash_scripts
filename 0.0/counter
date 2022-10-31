@@ -1,0 +1,11 @@
+#!/bin/bash
+
+counter=0
+
+read $1
+
+until [ $counter -gt $1 ]
+do
+  echo Counter: $counter
+  ((counter++))
+done
