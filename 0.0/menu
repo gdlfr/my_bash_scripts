@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# some menu:
+while true; do
+    echo "Welcome to the Menu"
+    echo "  1. Say hello"
+    echo "  2. Say good-bye"
+
+    read -p "-> " response
+    case $response in
+        1) echo 'Hello there!' ;;
+        2) echo 'See you later!'; break ;;
+        *) echo 'What was that?' ;;
+    esac
+done
+
+# or use a variable to terminate the loop instead of an
+# explicit break command.
+
+quit=
+while test -z "$quit"; do
+    echo "...."
+    read -p "-> " response
+    case $response in
+        ...
+        2) echo 'See you later!'; quit=y ;;
+        ...
+    esac
+done
