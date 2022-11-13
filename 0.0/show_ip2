@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# curl ifconfig.me
+
+# show IP
+curl ifconfig.me/ip
+
+# show UserAgent
+# curl ifconfig.me/ua
+
+#
+# curl ifconfig.me/lang
+
+#
+# curl ifconfig.me/encoding
+
+#
+# curl ifconfig.me/mime
+
+#
+# curl ifconfig.me/charset
+
+#
+# curl ifconfig.me/forwarded
+
+# show all
+# curl ifconfig.me/all
+
+# 
+# curl ifconfig.me/all.json
