@@ -1,0 +1,7 @@
+
+apt-get update --allow-insecure-repositories
+apt install curl -y
+
+#install docker
+
+docker run --name vulnbank -p 80:80 -d vulnbank/vulnbank
