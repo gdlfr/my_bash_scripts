@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#check MongoDB
+echo "cheking Mongo connection"
+#mongo --authenticationDatabase admin -u root -p $(cat /opt/[]/conf/master_password) --host node1
+mongo --authenticationDatabase admin -u root -p $(cat /opt/[]/conf/master_password) [] --eval "printjson(rs.status().members)"
+
+sleep 4
+
+#check ElasticSearch
+echo "cheking Elastic connection"
+curl -XGET -s -u root:$(cat /opt/[]/conf/master_password ) http://$(hostname):[port]/_nodes/process?pretty
