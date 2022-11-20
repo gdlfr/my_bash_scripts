@@ -1,0 +1,4 @@
+# for debugging 
+set -x
+command
+{ set +x; } 2>/dev/null
