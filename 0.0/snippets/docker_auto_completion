@@ -1,12 +1,13 @@
 #!/bin/bash
 
 apt-get update
-apt-get install bash-completion
-#-y
+apt-get install bash-completion -y
 
 # check if docker-ce-cli installed:
 dpkg -L docker-ce-cli |grep completion
 
-#curl https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o /etc/bash_completion.d/docker.sh
+curl https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o /etc/bash_completion.d/docker.sh
 
 # logout & login again
+
+
