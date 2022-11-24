@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "you rolled $(( RANDOM % 20 ))"
+sleep 0.3
