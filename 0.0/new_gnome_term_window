@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gnome-terminal > pwd
+
+# TODO
+# add as function to .bashrc
