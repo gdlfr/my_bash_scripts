@@ -1,0 +1,8 @@
+#!/bin/bash
+
+read date
+
+diff=$((365 - date))
+# 191=$TODAY
+ptc=$((diff / 3)) # $diff/3.65
+echo $ptc
