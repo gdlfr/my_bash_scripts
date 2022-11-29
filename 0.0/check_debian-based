@@ -2,6 +2,8 @@
 
 os="$(lsb_release -si 2>/dev/null)"
 
+#cat /etc/*-release | grep "ID=debian"
+
 if [[ "os" != "Ubuntu" ]] && [[ "os" != "Debian" ]] && [[ "os" != "Raspbian" ]]; then
 #  echo "This script only support Debian-based distros"
 else [[ "os" = "Debian" ]]
