@@ -1,0 +1,13 @@
+#!/bin/bash
+
+GRUB_CMDLINE_LINUX=""
+GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"
+
+sed -i 's/GRUB_CMDLINE_LINUX/g'
+/etc/default/grub
+
+# interface with MAC address "00:0c:30:50:48:a1" will be assigned "eth0"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="00:0c:30:50:48:a1", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="eth*", NAME="eth0"
+
+# interface with MAC address "00:0c:30:50:48:ab" will be assigned "eth1"
+SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="00:0c:30:50:48:ab", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="eth*", NAME="eth1"
