@@ -1,0 +1,23 @@
+#!/bin/bash
+if [ -z "$1" ]
+  then
+    echo "No identify of the network supplied, i.e. 19.62.55"
+else
+    ipAddress=$1
+
+    for i in {1..256} ;do 
+    (
+        {
+        ping -w 5 $ipAddress.$i ; 
+        result=$(echo $?);
+        } &> /dev/null
+
+
+        if [ $result = 0 ]; then
+            echo Successful Ping From : $ipAddress.$i
+        else
+            echo Failed Ping From : $ipAddress.$i
+        fi &);
+    done
+
+fi
