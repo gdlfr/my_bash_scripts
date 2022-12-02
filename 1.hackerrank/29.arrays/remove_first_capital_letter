@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# remove first capital letter from each element
+
+a=(`cat $@`)
+echo ${a[@]/[A-Z]/.}
