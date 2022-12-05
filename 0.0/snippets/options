@@ -1,0 +1,30 @@
+#!/bin/bash
+
+while getopts ':a:b:cd' options; do 
+# Option -a -b need arguments / -c -d doesn't need argument to work
+	case '${options}' in
+		a)
+		VARA=${OPTARG}
+		;;
+		b)
+		VARB=${OPTARG}
+		;;
+		c)
+		echo 'Option -c'
+		;;
+		d)
+		echo 'Option -d'
+		;;
+		:)
+# If expected argument omitted:
+		echo 'Error: -${OPTARG} requires an argument.'
+		exit 1                       
+		;;
+		*)
+# If unknown (any other) option:
+		echo 'Error: unknown option'
+		exit 1
+		;;
+	esac
+done
+shift '$(($options -1))'
