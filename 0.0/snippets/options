@@ -18,7 +18,7 @@ while getopts ':a:b:cd' options; do
 		:)
 # If expected argument omitted:
 		echo 'Error: -${OPTARG} requires an argument.'
-		exit 1                       
+		exit 1
 		;;
 		*)
 # If unknown (any other) option:
