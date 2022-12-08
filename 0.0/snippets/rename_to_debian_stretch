@@ -11,3 +11,5 @@ SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="00:0c:30:50:48:a
 
 # interface with MAC address "00:0c:30:50:48:ab" will be assigned "eth1"
 SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="00:0c:30:50:48:ab", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="eth*", NAME="eth1"
+
+ip addr show
