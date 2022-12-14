@@ -2,3 +2,9 @@
 My scripting trainings & useful things  
   
 ### Networking  
+  
+### Navigating
+  
+### Bash tricks
+  
+### Other
