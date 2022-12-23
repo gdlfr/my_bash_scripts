@@ -1,4 +1,4 @@
-# my_bash_scripts
+# my_bash_scripts  
 My scripting trainings & useful things  
   
 ### Networking  
@@ -8,9 +8,9 @@ My scripting trainings & useful things
 [ssh](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
 ### Hardware  
 [battery](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery)  
-
-### Navigating
+[tempreture](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
+### Navigating  
   
-### Bash tricks
+### Bash tricks  
   
-### Other
+### Other  
