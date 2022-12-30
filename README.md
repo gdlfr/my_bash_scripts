@@ -10,6 +10,7 @@ My scripting trainings & useful things
 ### Hardware  
 [battery](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
 [tempreture](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
+[Mount second SSD](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/mount_2d_ssd)  
 ### System  
 [timedatectl ntp sync on](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/TimeDateCTL_ntp_sync_on)  
 ### Bash tricks  
