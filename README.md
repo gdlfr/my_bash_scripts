@@ -13,7 +13,9 @@ My scripting trainings & useful things
 [Mount second SSD](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/mount_2d_ssd)  
 ### System  
 [timedatectl ntp sync on](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/TimeDateCTL_ntp_sync_on)  
+[Debian?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/check_debian-based)  
 [Docker Enable autocompleteon](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/docker_auto_completion)  
+  
 ### Bash tricks  
 [stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
 ### Other  
