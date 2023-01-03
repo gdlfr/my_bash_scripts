@@ -6,6 +6,7 @@ My scripting trainings & useful things
 [download/upload file](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/download_or_upload)  
 [ping ok](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_ok)  
 [ping more](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more)  
+[ping more](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more2)  
 [ssh](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
 ### Hardware  
 [battery](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
