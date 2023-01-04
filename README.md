@@ -19,6 +19,7 @@ My scripting trainings & useful things
   
 ### Bash tricks  
 [stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
+[bash quine](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/real_quine)  
 ### Other  
   
 [^1]: Perl
