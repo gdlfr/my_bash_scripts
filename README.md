@@ -22,4 +22,6 @@ My scripting trainings & useful things
 [Bash quine](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/real_quine)  
 ### Other  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
+#### Bash functions  
+[Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
 [^1]: Perl
