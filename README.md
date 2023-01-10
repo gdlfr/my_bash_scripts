@@ -7,6 +7,7 @@ My scripting trainings & useful things
 [Ping ok](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_ok)  
 [Ping more](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more)  
 [Ping more (extended)](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more2)  
+[ProtonVPN CLI fix leak protection connection](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/reconnection_after_fail)  
 ### Hardware  
 [Battery state](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
 [Print tempreture](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
@@ -24,4 +25,4 @@ My scripting trainings & useful things
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
-[^1]: Perl
+[^1]: Perl  
