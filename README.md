@@ -1,5 +1,5 @@
 # my_bash_scripts  
-My scripting trainings & useful things  
+My scripting trainings & useful snippets  
   
 ### Networking  
 [DNS change](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/dns_change)  
@@ -17,6 +17,7 @@ My scripting trainings & useful things
 [Debian?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/check_debian-based)  
 [Docker Enable autocompleteon](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/docker_auto_completion)  
 [Package installed?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
+[Delete specific files](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/delete_specific)  
   
 ### Bash tricks  
 [Stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
