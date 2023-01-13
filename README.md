@@ -16,6 +16,7 @@ My scripting trainings & useful snippets
 [Timedatectl ntp sync on](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/TimeDateCTL_ntp_sync_on)  
 [Debian?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/check_debian-based)  
 [Docker Enable autocompleteon](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/docker_auto_completion)  
+[Install Portainer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/install_portainer)  
 [Package installed?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
 [Delete specific files](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/delete_specific)  
   
