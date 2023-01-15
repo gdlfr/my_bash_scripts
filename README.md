@@ -24,6 +24,7 @@ My scripting trainings & useful snippets
 [Stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
 [Bash quine](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/real_quine)  
 [Script without shebang](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/script_without_shebang)  
+[Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
 ### Other  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
