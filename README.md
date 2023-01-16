@@ -30,4 +30,5 @@ My scripting trainings & useful snippets
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
+[Count](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
 [^1]: Perl  
