@@ -28,6 +28,7 @@ My scripting trainings & useful snippets
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
+[Current time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/current_time)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
