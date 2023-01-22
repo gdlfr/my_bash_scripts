@@ -30,6 +30,7 @@ My scripting trainings & useful snippets
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 [Current time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/current_time)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
+[BTC price](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/btc-price)  
 ### Snippets  
 [Elapsed time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/elapsed_time)  
 #### Bash functions  
