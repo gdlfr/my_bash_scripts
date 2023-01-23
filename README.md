@@ -33,6 +33,7 @@ My scripting trainings & useful snippets
 [BTC price](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/btc-price)  
 ### Snippets  
 [Elapsed time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/elapsed_time)  
+[SimpleHTTPServer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/simple_http)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
 [Count](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
