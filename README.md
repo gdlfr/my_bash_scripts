@@ -25,6 +25,7 @@ My scripting trainings & useful snippets
 [Bash quine](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/real_quine)  
 [Script without shebang](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/script_without_shebang)  
 [Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
+[Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
