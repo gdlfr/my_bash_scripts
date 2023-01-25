@@ -37,5 +37,6 @@ My scripting trainings & useful snippets
 [SimpleHTTPServer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/simple_http)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
-[Count](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
+[Count time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
+[Count words](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/functions)  
 [^1]: Perl  
