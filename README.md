@@ -35,6 +35,7 @@ My scripting trainings & useful snippets
 ### Snippets  
 [Elapsed time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/elapsed_time)  
 [SimpleHTTPServer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/simple_http)  
+[Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
 [Count time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
