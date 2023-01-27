@@ -40,4 +40,5 @@ My scripting trainings & useful snippets
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
 [Count time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
 [Count words](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/functions)  
+[Assign var to command result](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/assign_var_to_command_result)  
 [^1]: Perl  
