@@ -8,10 +8,12 @@ My scripting trainings & useful snippets
 [Ping more](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more)  
 [Ping more (extended)](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more2)  
 [ProtonVPN CLI fix leak protection connection](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/reconnection_after_fail)  
+  
 ### Hardware  
 [Battery state](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
 [Print tempreture](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
 [Mount second SSD](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/mount_2d_ssd)  
+  
 ### System  
 [Timedatectl ntp sync on](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/TimeDateCTL_ntp_sync_on)  
 [Debian?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/check_debian-based)  
@@ -28,18 +30,22 @@ My scripting trainings & useful snippets
 [Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
 [Clock](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 [Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
+  
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 [Current time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/current_time)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
 [BTC price](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/btc-price)  
+  
 ### Snippets  
 [Elapsed time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/elapsed_time)  
 [SimpleHTTPServer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/simple_http)  
 [Case (switch) in Bash](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/case)  
 [Average](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/average)  
+[Date formats](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/date_formats)  
 [Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
+  
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
 [Count time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/count)  
