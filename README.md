@@ -45,6 +45,7 @@ My scripting trainings & useful snippets
 [Average](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/average)  
 [Date formats](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/date_formats)  
 [Counter](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/counter)  
+[Execute command on condition](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/execute_command_on_condition)  
 [Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
   
 #### Bash functions  
