@@ -46,6 +46,7 @@ My scripting trainings & useful snippets
 [Date formats](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/date_formats)  
 [Counter](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/counter)  
 [Execute command on condition](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/execute_command_on_condition)  
+[Wait](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/wait)  
 [Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
   
 #### Bash functions  
