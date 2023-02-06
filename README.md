@@ -35,6 +35,7 @@ My scripting trainings & useful snippets
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
 [Current time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/current_time)  
+[Weather by location name](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/weather)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
 [BTC price](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/btc-price)  
   
