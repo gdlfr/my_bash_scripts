@@ -8,6 +8,7 @@ My scripting trainings & useful snippets
 [Ping more](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more)  
 [Ping more (extended)](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ping_more2)  
 [ProtonVPN CLI fix leak protection connection](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/reconnection_after_fail)  
+[Rename interfaces to Debian9](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/rename_to_debian_stretch)  
   
 ### Hardware  
 [Battery state](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
