@@ -52,6 +52,7 @@ My scripting trainings & useful snippets
 [Wait](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/wait)  
 [Years since 2000](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/years_since_2000)  
 [Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
+[Skilstak VM](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/skilstak_vm)  
   
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
