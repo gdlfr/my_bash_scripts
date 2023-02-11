@@ -22,6 +22,7 @@ My scripting trainings & useful snippets
 [Install Portainer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/install_portainer)  
 [Package installed?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
 [Delete specific files](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/delete_specific)  
+[Del](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/del)  
   
 ### Bash tricks  
 [Stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
