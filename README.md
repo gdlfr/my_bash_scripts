@@ -31,6 +31,9 @@ My scripting trainings & useful snippets
 [Script without shebang](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/script_without_shebang)  
 [Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
 [Clock](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
+
+### Bash basics  
+[until](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/6.until/until)  
 [Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
   
 ### Other  
