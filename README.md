@@ -58,6 +58,7 @@ My scripting trainings & useful snippets
 [Conditional test](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/conditional_test)  
 [Skilstak VM](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/skilstak_vm)  
 [Options](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/options)  
+[roll20](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/roll20)  
   
 #### Bash functions  
 [Up](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/up)  
