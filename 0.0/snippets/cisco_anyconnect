@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+
+eval spawn /opt/cisco/anyconnect/bin/vpn connect sslvpn.***********.**
+
+expect "Domain: " { send "\r" }
+expect "Username: " { send "\r" }
+expect "Password: " { send "***********\r" }
+
+set timeout 60
+expect "VPN>"
