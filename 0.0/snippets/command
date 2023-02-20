@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# list of unrelated / useful commands and bash constructions.
+
+# read-only declired variable example:
+readonly password_file="/etc/passwd"
+
+# bash Environment variables
+
+echo $HOME
+
+# custom variables
+
+nikto_file='$HOME/Downloads/nikto_file'
+
+echo $nikto_file
+
+#
+
+for file in *; do cp $file $file.bak; done #one liner
+
+# functions
+
+function check_root(){
+
+}
+
+checkroot(){
+
+}
+
+# bash key binding:
+
+bind -p
+
+
+# 
+
+# remove last word on the left
+Ctrl + W
+# undo last edit
+Ctrl + Alt + -
+
+# remove only 
+Ctrl + U
+
+
+# clean whole command
+Ctrl + K
