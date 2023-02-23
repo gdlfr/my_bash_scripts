@@ -39,6 +39,7 @@ My scripting trainings & useful snippets
 [redirect output to file](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/2.redirect_to_file/file.sh)  
 [Looping and skipping](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/3.looping_n_skipping/looping_n_skipping.sh)  
 [Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
+[conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
