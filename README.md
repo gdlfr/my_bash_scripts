@@ -40,6 +40,7 @@ My scripting trainings & useful snippets
 [Looping and skipping](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/3.looping_n_skipping/looping_n_skipping.sh)  
 [Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
 [conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
+[conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
