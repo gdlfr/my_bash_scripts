@@ -41,6 +41,7 @@ My scripting trainings & useful snippets
 [Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
 [conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
 [conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
+[arithmetics](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
