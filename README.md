@@ -45,6 +45,7 @@ My scripting trainings & useful snippets
 [cut](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/9.cut_1/cut_1.sh)  
 [head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1)  
 [tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
+[sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
