@@ -47,6 +47,7 @@ My scripting trainings & useful snippets
 [tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
 [sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
 [uniq](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/27.uniq)  
+[paste](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/28.paste)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
