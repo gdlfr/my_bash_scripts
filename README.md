@@ -48,6 +48,7 @@ My scripting trainings & useful snippets
 [sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
 [uniq](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/27.uniq)  
 [paste](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/28.paste)  
+[concatenate array with itself](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/concatenate_an_array_with_itself)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
