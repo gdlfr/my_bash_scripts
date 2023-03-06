@@ -50,6 +50,7 @@ My scripting trainings & useful snippets
 [paste](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/28.paste)  
 [concatenate array with itself](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/concatenate_an_array_with_itself)  
 [count elements of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/count_elements)  
+[display an element of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/display_an_element_of_an_array)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
