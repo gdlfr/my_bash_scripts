@@ -54,6 +54,7 @@ My scripting trainings & useful snippets
 [filter an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/filter_an_array)  
 [read array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/read_in_an_array)  
 [remove first capital](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/remove_first_capital_letter)  
+[slice array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/slice_an_array)  
   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
