@@ -36,6 +36,7 @@ My scripting trainings & useful snippets
 [echo](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/2.echo_greetings/greeting.sh)  
 [until](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/6.until/until)  
 [Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
+[for loop](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/7.for/elevator_example)  
 [redirect output to file](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/2.redirect_to_file/file.sh)  
 [Looping and skipping](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/3.looping_n_skipping/looping_n_skipping.sh)  
 [Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
