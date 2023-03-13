@@ -1,5 +1,31 @@
 # my_bash_scripts  
 My scripting trainings & useful snippets  
+
+### Bash basics  
+[echo](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/2.echo_greetings/greeting.sh)  
+[until](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/6.until/until)  
+[Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
+[for loop](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/7.for/elevator_example)  
+[for](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/7.for/for)  
+[redirect output to file](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/2.redirect_to_file/file.sh)  
+[Looping and skipping](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/3.looping_n_skipping/looping_n_skipping.sh)  
+[Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
+[conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
+[conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
+[arithmetics](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
+[cut](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/9.cut_1/cut_1.sh)  
+[head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1)  
+[tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
+[sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
+[uniq](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/27.uniq)  
+[paste](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/28.paste)  
+[concatenate array with itself](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/concatenate_an_array_with_itself)  
+[count elements of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/count_elements)  
+[display an element of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/display_an_element_of_an_array)  
+[filter an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/filter_an_array)  
+[read array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/read_in_an_array)  
+[remove first capital](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/remove_first_capital_letter)  
+[slice array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/slice_an_array)  
   
 ### Networking  
 [DNS change](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/dns_change)  
@@ -31,33 +57,7 @@ My scripting trainings & useful snippets
 [Script without shebang](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/script_without_shebang)  
 [Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
 [Clock](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
-
-### Bash basics  
-[echo](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/2.echo_greetings/greeting.sh)  
-[until](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/6.until/until)  
-[Bash variables](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/bash_variables)  
-[for loop](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/7.for/elevator_example)  
-[for](https://github.com/gdlfr/my_bash_scripts/blob/master/2.networkchuck/7.for/for)  
-[redirect output to file](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/2.redirect_to_file/file.sh)  
-[Looping and skipping](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/3.looping_n_skipping/looping_n_skipping.sh)  
-[Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
-[conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
-[conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
-[arithmetics](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
-[cut](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/9.cut_1/cut_1.sh)  
-[head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1)  
-[tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
-[sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
-[uniq](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/27.uniq)  
-[paste](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/28.paste)  
-[concatenate array with itself](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/concatenate_an_array_with_itself)  
-[count elements of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/count_elements)  
-[display an element of an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/display_an_element_of_an_array)  
-[filter an array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/filter_an_array)  
-[read array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/read_in_an_array)  
-[remove first capital](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/remove_first_capital_letter)  
-[slice array](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/29.arrays/slice_an_array)  
-  
+   
 ### Other  
 [Vim setup example](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/vim_set)  
 [Clock in terminal](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
