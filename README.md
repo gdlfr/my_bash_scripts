@@ -14,7 +14,7 @@ My scripting trainings & useful snippets
 [conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
 [arithmetics](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
 [cut](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/9.cut_1/cut_1.sh)  
-[head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1)  
+[head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1) [2](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/19.head_of_a_text_file_2/head_of_a_text_file_2)  
 [tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
 [sort](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/26.sort)  
 [uniq](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/27.uniq)  
