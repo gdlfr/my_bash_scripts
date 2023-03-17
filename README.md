@@ -12,7 +12,7 @@ My scripting trainings & useful snippets
 [Looping with numbers](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/4.looping_n_numbers/looping_n_numbers.sh)  
 [conditionals](https://github.com/gdlfr/my_bash_scripts/tree/master/1.hackerrank/5.getting_started_with_conditionals)  
 [conditionals](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/6.more_on_conditionals/define_type_of_triangle.sh)  
-[arithmetics](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
+[arithmetic](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/7.the_world_of_numbers/the_world_of_numbers)  
 [cut](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/9.cut_1/cut_1.sh)  
 [head](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/18.head_of_a_text_file/head_of_a_text_file_1) [2](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/19.head_of_a_text_file_2/head_of_a_text_file_2)  
 [tr](https://github.com/gdlfr/my_bash_scripts/blob/master/1.hackerrank/23.tr_command_1/tr_command_1)  
@@ -38,13 +38,13 @@ My scripting trainings & useful snippets
   
 ### Hardware  
 [Battery state](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/battery) [^1]  
-[Print tempreture](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
+[Print temperature](https://github.com/gdlfr/my_bash_scripts/blob/master/3.linuxhint/print_temp)  
 [Mount second SSD](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/mount_2d_ssd)  
   
 ### System  
 [Timedatectl ntp sync on](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/TimeDateCTL_ntp_sync_on)  
 [Debian?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/check_debian-based)  
-[Docker Enable autocompleteon](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/docker_auto_completion)  
+[Docker Enable autocompletion](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/docker_auto_completion)  
 [Install Portainer](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/install_portainer)  
 [Package installed?](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/ssh_)  
 [Delete specific files](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/delete_specific)  
