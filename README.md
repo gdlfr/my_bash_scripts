@@ -58,6 +58,7 @@ My scripting trainings & useful snippets
 [Script without shebang](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/script_without_shebang)  
 [Brace expansion examples](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/brace_expansion)  
 [Clock](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/clock)  
+[Command staistics](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/command_stats)  
 [trap]()  
    
 ### Other  
