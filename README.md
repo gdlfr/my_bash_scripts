@@ -68,6 +68,7 @@ My scripting trainings & useful snippets
 [Weather by location name](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/weather)  
 [print_command_before_run_it](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/snippets/print_command_before_run_it)  
 [BTC price](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/btc-price)  
+[Show my userpic](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/gdlfr)  
   
 ### Snippets  
 [Elapsed time](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/elapsed_time)  
