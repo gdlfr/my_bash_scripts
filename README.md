@@ -50,6 +50,7 @@ My scripting trainings & useful snippets
 [begin Ubuntu](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/begin_ubuntu)  
 [Delete specific files](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/delete_specific)  
 [Del](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/del)  
+[Show zombies](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/show_zombies)  
   
 ### Bash tricks  
 [Stop echo from breaking the line](https://github.com/gdlfr/my_bash_scripts/blob/master/0.0/stops_echo_from_breaking_the_line)  
